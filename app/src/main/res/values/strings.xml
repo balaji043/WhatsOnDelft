@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WhatsOn</string>
+    <string name="event_image">Event Image</string>
+    <string name="month">SEP</string>
+    <string name="date">21</string>
+    <string name="day">THU</string>
+    <string name="event_name">Event name</string>
+    <string name="event_locaiton">Event locaiton</string>
+    <string name="event_timing">Event timeing</string>
+    <string name="price">Price</string>
+    <string name="_12am">12am</string>
+    <string name="_04">04</string>
+    <string name="music_concert">End of the Year Drinks</string>
+    <string name="dutch">Dutch</string>
+    <string name="home">Events</string>
+    <string name="close_drawer">Home</string>
+    <string name="open_drawer">WhatsOn</string>
+    <string name="goback">Go Back</string>
+    <string name="place">Place:</string>
+    <string name="start">Start:</string>
+    <string name="end">End:</string>
+    <string name="cost">Cost:</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="tickets">Tickets</string>
+    <string name="calender">Calender</string>
+    <string name="route">Route</string>
+    <string name="_21_12_2017">21/12/2017</string>
+    <string name="_23_12_2017">23/12/2017</string>
+
+</resources>
